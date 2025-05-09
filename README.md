@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Yuxiang Yang, Gabriel, currently learning Javascript, Go and Python. 
+I'm looking forward to find a friend that learn these with me.
+I believe Computer Science would be a beneficial tool for me to solve many problems and it has solved many of them!
+I enjoy classical, pop, and soft rock music. 
+You can alway reach me by my personal email Gabrrie1@outlook.com
